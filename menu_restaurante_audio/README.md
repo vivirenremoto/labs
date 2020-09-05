@@ -1,4 +1,4 @@
-# MENÚ DE UN RESTAURANTE EN AUDIO ACCESIBLE CON UN MÓVIL CON NFC
+# MENÚ DE UN RESTAURANTE EN FORMATO AUDIO ACCESIBLE CON UN MÓVIL VIA NFC
 
 1- escribir menú en el traductor de google, separar por espacios y poner un punto al final de cada línea para que vaya más lento.
 
