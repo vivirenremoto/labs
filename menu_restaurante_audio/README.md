@@ -18,7 +18,7 @@
 
 7- en github podemos obtener la ruta del fichero si pulsamos en el botón "raw".
 
-[ejemplo de menú en formato audio](https://raw.githubusercontent.com/vivirenremoto/labs/master/restaurante/menu.mp3)
+[ejemplo de menú en formato audio](https://raw.githubusercontent.com/vivirenremoto/labs/master/menu_restaurante_audio/menu.mp3)
 
 8- compramos etiquetas nfc en [amazon](https://www.amazon.es/s?k=nfc+etiqueta&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2).
 
