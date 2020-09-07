@@ -29,3 +29,7 @@
 [iphone](https://apps.apple.com/es/app/nfc-tools/id1252962749)
 
 10- para abrir el menú en formato audio, pasamos el móvil por encima de la etiqueta nfc.
+
+## otra forma de generar audio con traductor de google
+
+[https://vivirenremoto.github.io/labs/texto_audio/](https://vivirenremoto.github.io/labs/texto_audio/)
