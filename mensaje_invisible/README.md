@@ -2,6 +2,8 @@
 
 codifica y descodifica mensajes que no se pueden leer a simple vista.
 
+## ¿Cómo funciona?
+
 para codificar el mensaje lo que hace el script es:
 
 1- obtener el código ascii de cada letra, por ejemplo A es 65. si este valor es mayor a 60 en el siguiente paso usaremos como caracter un punto (.) o en caso contrario un guión (-).
