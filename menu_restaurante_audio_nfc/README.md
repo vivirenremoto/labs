@@ -12,7 +12,7 @@
 
 [traductor de google](https://translate.google.es/?hl=es)
 
-[ejemplo de menu](https://github.com/vivirenremoto/labs/blob/master/menu_restaurante_audio/menu.txt)
+[ejemplo de menu](https://github.com/vivirenremoto/labs/blob/master/menu_restaurante_audio_nfc/menu.txt)
 
 2- abrir el inspector de chrome y pulsar el botón de escuchar en el traductor de google.
 
@@ -28,7 +28,7 @@
 
 2- en github podemos obtener la ruta del fichero si pulsamos en el botón "raw".
 
-[ejemplo de menú en formato audio](https://raw.githubusercontent.com/vivirenremoto/labs/master/menu_restaurante_audio/menu.mp3)
+[ejemplo de menú en formato audio](https://raw.githubusercontent.com/vivirenremoto/labs/master/menu_restaurante_audio_nfc/menu.mp3)
 
 ## Escribir URL del audio en una etiqueta NFC
 
