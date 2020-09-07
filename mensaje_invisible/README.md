@@ -2,6 +2,11 @@
 
 codifica y descodifica mensajes que no se pueden leer a simple vista.
 
+## Demo
+
+[https://vivirenremoto.github.io/labs/mensaje_invisible/](https://vivirenremoto.github.io/labs/mensaje_invisible/)
+
+
 ## ¿Cómo funciona?
 
 para codificar el mensaje lo que hace el script es:
@@ -15,7 +20,3 @@ para codificar el mensaje lo que hace el script es:
 en principio quería usar solo espacios, pero puede algunos formularios eliminen los espacios y sea imposible luego de descifrar el mensaje.
 
 para descodificar hace el proceso inverso.
-
-## Demo
-
-[https://vivirenremoto.github.io/labs/mensaje_invisible/](https://vivirenremoto.github.io/labs/mensaje_invisible/)
