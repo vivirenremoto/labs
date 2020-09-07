@@ -7,3 +7,7 @@ para codificar el mensaje lo que hace el script es obtener el código ascii de c
 en principio quería usar espacios, pero puede algunos formularios limpien los espacios y sea imposible luego de descifrar el mensaje.
 
 para descodificar hace el proceso inverso.
+
+## Demo
+
+[https://vivirenremoto.github.io/labs/mensaje_invisible/](https://vivirenremoto.github.io/labs/mensaje_invisible/)
