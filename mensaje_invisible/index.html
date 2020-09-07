@@ -21,7 +21,7 @@
     <h1>Mensaje invisible</h1>
 
     <p>
-        Texto
+        Texto (no puedes usar guiones, ni puntos)
         <textarea id="text" cols="10" rows="6"></textarea>
     </p>
 
@@ -42,6 +42,8 @@
     </p>
 
     <script>
+        var encode_sum = 60;
+
         function invisible_encrypt(text) {
             var result = '';
             var total = text.length;
@@ -52,9 +54,15 @@
                 var j = 0;
                 var word = '';
                 var ascii = text[i].charCodeAt(0);
+                var symbol = '-';
+
+                if (ascii > encode_sum) {
+                    ascii -= encode_sum;
+                    symbol = '.';
+                }
 
                 for (j = 0; j < ascii; j++) {
-                    word += '.';
+                    word += symbol;
                 }
 
                 result += word + "\n";
@@ -70,7 +78,15 @@
             var total = lines.length;
             var i = 0;
             for (i = 0; i < total; i++) {
-                var spaces = lines[i].split('.').length - 1;
+                var symbol = '-';
+                var sum = 0;
+
+                if (lines[i].indexOf('.') > -1) {
+                    symbol = '.';
+                    sum = encode_sum;
+                }
+
+                var spaces = lines[i].split(symbol).length - 1 + sum;
 
                 if (spaces) {
                     result += String.fromCharCode(spaces);
