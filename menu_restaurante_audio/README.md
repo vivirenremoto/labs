@@ -12,7 +12,7 @@
 
 4- descargamos los audios mp3.
 
-5- combinar los audios mp3 en uno solo con [esta web](https://clideo.com/es/editor/merge-audio)
+5- combinar los audios mp3 en uno solo con [esta herramienta online](https://clideo.com/es/merge-audio)
 
 6- subir el mp3 en internet por ejemplo en un repositorio de github.
 
