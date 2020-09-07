@@ -4,7 +4,7 @@
 
 [traductor de google](https://translate.google.es/?hl=es)
 
-[ejemplo de menu](https://github.com/vivirenremoto/labs/blob/master/restaurante/menu.txt)
+[ejemplo de menu](https://github.com/vivirenremoto/labs/blob/master/menu_restaurante_audio/menu.txt)
 
 2- abrir el inspector de chrome y pulsar el botón de escuchar en el traductor de google.
 
