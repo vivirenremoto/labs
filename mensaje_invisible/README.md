@@ -7,6 +7,15 @@ codifica y descodifica mensajes que no se pueden leer a simple vista.
 [https://vivirenremoto.github.io/labs/mensaje_invisible/](https://vivirenremoto.github.io/labs/mensaje_invisible/)
 
 
+## Ejemplo: hola
+
+```
+........................................................................................................
+...............................................................................................................
+............................................................................................................
+.................................................................................................
+```
+
 ## ¿Cómo codifica el mensaje?
 
 para codificar el mensaje lo que hace el script es:
