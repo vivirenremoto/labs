@@ -64,7 +64,7 @@
 
                 encoded_text = encoded_text.replace(/\n/g, ' ');
                 encoded_text = encodeURI(encoded_text);
-                encoded_text = encoded_text.replace(' ', '+');
+                encoded_text = encoded_text.replace(' ', '%20');
 
                 var url = 'https://translate.google.com/translate_tts?ie=UTF-8&q=' + encoded_text + '&tl=' + lang + '&ttsspeed=' + speed + '&client=tw-ob';
 
