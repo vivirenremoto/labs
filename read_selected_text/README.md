@@ -8,7 +8,7 @@
 
 3- Click the bookmark to read the selected text using "IBM Watson API".
 
-4- Wait to listen the text.
+4- Wait and listen the text.
 
 **Sources**
 
