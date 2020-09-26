@@ -2,7 +2,7 @@
 
 **Intructions**
 
-1- Visit [this page](https://vivirenremoto.github.io/read_selected_text/page.html) and grab the link "read" into browser.
+1- Visit [this page](https://vivirenremoto.github.io/labs/read_selected_text/page.html) and grab the "read" or "leer" link into your browser.
 
 2- Select a text in any website.
 
@@ -10,14 +10,9 @@
 
 4- Wait to listen the text.
 
-**Need another language**
-
-Change the variable lang to another language for example:
-
-- spanish (es-ES_EnriqueVoice)
-- english (en-US_AllisonV3Voice)
-
 **Sources**
+
+- [IBM Watson demo](https://text-to-speech-demo.ng.bluemix.net/)
 
 - [Get selected text](https://stackoverflow.com/questions/5379120/get-the-highlighted-selected-text)
 
