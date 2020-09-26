@@ -2,6 +2,6 @@
     var url = new URL(document.location.href);
     var lang = url.searchParams.get("lang");
     var text = url.searchParams.get("text");
-    var link = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=' + lang + '&q=' + text.replace(/ /g, '+').replace(/[.]/g, '') + '&rd=' + (Math.random() * 50000000);
+    var link = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=' + lang + '&q=' + text.replace(/ /g, '+').replace(/[.]/g, '');
     document.location = link;
 </script>
